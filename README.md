@@ -1,0 +1,2 @@
+# safri
+switch off lamp
